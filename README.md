@@ -20,14 +20,14 @@
 </style>
 
 Font:
-<select id="fontId">
+<select id="fontId" onChange="applyFont()">
   <option value="fontId_Cinefont" onChange="applyFont()">Cinefont</option>
   <option value="fontId_Inter" onChange="applyFont()">Inter</option>
 </select>
 
 <script>
   function applyFont() {
-    const fontId = document.getElementById('fontId').value;
+    let fontId = document.getElementById('fontId').value;
     let fontVar;
 
     switch (fontId) {
@@ -50,7 +50,7 @@ Font:
   window.onLoad = applyFont;
 </script>
 
-<p id="demo">testor</p>
+<p id="demo">font testing here :D</p>
 
 ## Gabe here, Hello :D
 Back ache programmer primarily working on game systems.
