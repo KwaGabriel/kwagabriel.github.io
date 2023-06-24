@@ -1,7 +1,7 @@
 <style>
 @font-face {
   font-family: "interFont";
-  src: url("./assets/fonts/Inter-VariableFont_slnt%2Cwght.ttf") format("truetype");
+  src: url(".assets/fonts/Inter-VariableFont_slnt,wght.ttf") format("truetype");
   /* Add more src lines for other font file formats if necessary */
 }
 
