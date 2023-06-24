@@ -21,8 +21,8 @@
 
 Font:
 <select id="fontId" onChange="applyFont()">
-  <option value="fontId_Cinefont" onChange="applyFont()">Cinefont</option>
-  <option value="fontId_Inter" onChange="applyFont()">Inter</option>
+  <option value="fontId_Inter">Inter</option>
+  <option value="fontId_Cinefont">Cinefont</option>
 </select>
 
 <script>
