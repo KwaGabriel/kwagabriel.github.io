@@ -21,8 +21,8 @@
 
 Font:
 <select id="fontId">
-  <option value="fontId_Cinefont" onchange="applyFont()">Cinefont</option>
-  <option value="fontId_Inter" onchange="applyFont()">Inter</option>
+  <option value="fontId_Cinefont" onChange="applyFont()">Cinefont</option>
+  <option value="fontId_Inter" onChange="applyFont()">Inter</option>
 </select>
 
 <script>
@@ -47,7 +47,7 @@ Font:
     document.getElementById("demo").className = fontVar;
   }
   
-  window.onload = applyFont;
+  window.onLoad = applyFont;
 </script>
 
 <p id="demo">testor</p>
