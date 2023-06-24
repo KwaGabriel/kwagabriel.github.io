@@ -1,7 +1,7 @@
 <style>
 @font-face {
   font-family: "interFont";
-  src: url("https://github.com/KwaGabriel/kwagabriel.github.io/blob/main/Assets/Fonts/Inter-VariableFont_slnt%2Cwght.ttf") format("truetype");
+  src: url("https://github.com/KwaGabriel/kwagabriel.github.io/raw/main/Assets/Fonts/Inter-VariableFont_slnt%2Cwght.ttf") format("truetype");
   /* Add more src lines for other font file formats if necessary */
 }
 
