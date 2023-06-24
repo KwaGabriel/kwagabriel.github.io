@@ -5,16 +5,55 @@
   /* Add more src lines for other font file formats if necessary */
 }
 
+@font-face {
+  font-family: "cinefontFont";
+  src: url("assets/fonts/cinecaption226.ttf") format("truetype");
+}
+
 .interFontClass {
   font-family: "interFont", sans-serif;
 }
 
+.cinefontFontClass {
+  font-family: "cinefontFont", sans-serif;
+}
+
 body {
-  font-family: "interFont", sans-serif;
+  font-family: "cinefontFont", sans-serif;
 }
 </style>
 
-<p class="interFontClass"></p>
+var fontFileVarInter = "interFont";
+
+<p class="cinefontFont">tester</p>
+<p class=fontFileVarInter>tester</p>
+
+
+Font:
+<select id="fontId">
+  <option value="fontId_Cinefont">Cinefont</option>
+  <option value="fontId_Inter">Inter</option>
+</select>
+
+<button onclick="apply()">Apply</button>
+
+<script>
+  function apply() {
+    const fontId = document.getElementById('fontId').value;
+    let result;
+
+    switch (fontId) {
+      case 'fontId_Cinefont':        
+        break;
+		
+      case 'fontId_Inter':        
+        break;
+    }
+
+    document.getElementById('result').textContent = result;
+  }
+</script>
+
 
 ## Gabe here, Hello :D
 Back ache programmer primarily working on game systems.
