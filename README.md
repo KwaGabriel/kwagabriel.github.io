@@ -47,7 +47,7 @@ Font:
     document.getElementById("demo").className = fontVar;
   }
   
-  $(function(){...});
+  $(applyFont());
 </script>
 
 <p id="demo">font testing here :D</p>
