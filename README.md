@@ -11,6 +11,7 @@ body {
 </style>
 
 <p class="cinecaption226">
+
 ## Gabe here, Hello :D
 Back ache programmer primarily working on game systems.
 
@@ -102,7 +103,6 @@ Result: <span id="result"></span>
     document.getElementById('result').textContent = result;
   }
 </script>
-
 </p>
 
 
