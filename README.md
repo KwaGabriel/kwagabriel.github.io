@@ -1,5 +1,3 @@
-<p onLoad="applyFont()">TITLE</p>
-
 <style>
 @font-face {
   font-family: "interFont";
@@ -48,6 +46,8 @@ Font:
 
     document.getElementById("demo").className = fontVar;
   }
+  
+  window.onload = applyFont;
 </script>
 
 <p id="demo">testor</p>
