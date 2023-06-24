@@ -10,7 +10,7 @@ body {
 }
 </style>
 
-
+<p class="cinecaption226">
 ## Gabe here, Hello :D
 Back ache programmer primarily working on game systems.
 
@@ -103,7 +103,7 @@ Result: <span id="result"></span>
   }
 </script>
 
-
+</p>
 
 
 <!-- Here are some ideas to get you started: -->
