@@ -10,7 +10,7 @@ body {
 }
 </style>
 
-<p class="cinecaption226">
+<p class="cinecaption226">testing 1 2 3</p>
 
 ## Gabe here, Hello :D
 Back ache programmer primarily working on game systems.
@@ -103,7 +103,6 @@ Result: <span id="result"></span>
     document.getElementById('result').textContent = result;
   }
 </script>
-</p>
 
 
 <!-- Here are some ideas to get you started: -->
