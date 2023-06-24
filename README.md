@@ -8,9 +8,13 @@
 .interFontClass {
   font-family: "interFont", sans-serif;
 }
+
+body {
+  font-family: "interFont", sans-serif;
+}
 </style>
 
-<p class="interFontClass">
+<p class="interFontClass"></p>
 
 ## Gabe here, Hello :D
 Back ache programmer primarily working on game systems.
@@ -103,8 +107,6 @@ Result: <span id="result"></span>
     document.getElementById('result').textContent = result;
   }
 </script>
-
-</p>
 
 <!-- Here are some ideas to get you started: -->
 
