@@ -5,12 +5,12 @@
   /* Add more src lines for other font file formats if necessary */
 }
 
-body {
+.interFontClass {
   font-family: "interFont", sans-serif;
 }
 </style>
 
-<p class="custom-font">testing 1 2 3</p>
+<p class="interFontClass">testing chciken</p>
 
 ## Gabe here, Hello :D
 Back ache programmer primarily working on game systems.
