@@ -1,3 +1,16 @@
+<style>
+@font-face {
+  font-family: "cinecaption226";
+  src: url("https://github.com/KwaGabriel/kwagabriel.github.io/blob/main/Assets/Fonts/cinecaption226.ttf") format("truetype");
+  /* Add more src lines for other font file formats if necessary */
+}
+
+body {
+  font-family: "cinecaption226", sans-serif;
+}
+</style>
+
+
 ## Gabe here, Hello :D
 Back ache programmer primarily working on game systems.
 
