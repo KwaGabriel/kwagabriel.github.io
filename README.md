@@ -64,9 +64,9 @@ Back ache programmer primarily working on game systems.
 - Ipsum 🏋️‍♀️ 💪
 
 # 🏢 Experiences
-{::nomarkdown}| Roles | Company | Duration |
+| Roles | Company | Duration |
 | --- | --- | --- |
-| Tech Intern | [Nimbus Games](https://nimbusgames.dev/) | November 2022 - Present|{:/}
+| Tech Intern | [Nimbus Games](https://nimbusgames.dev/) | November 2022 - Present|
 
 ### Programming Languages (proficiency in descending order)
  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
