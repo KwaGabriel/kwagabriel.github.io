@@ -144,19 +144,15 @@ p {
 
 
 /* Projects paragraphing */
-ul:has(+p) {
-    padding-left: 0;
-}
-
-ul:has(+p), ul + p, ul + p + h3, h3 + p, ul+ p +h3 + h3{
+.project-paragraph{
     padding-right:2.5%;
     margin-bottom:0%;
     border-left: 3px solid #ccc;
     background-color: #252424;
 }
 
-ul + p + h3:has( + h3) {
-    text-align:end;
+.project-paragraph ul{
+    margin-left: -6%;
 }
 
 /*Projects image*/

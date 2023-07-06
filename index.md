@@ -5,23 +5,27 @@
 <div class = "right_banner"></div>
 
 <!--- Directory --->
-<div id="dragged" markdown = "1">
-  <div id="draggable">Drag me</div>
-        
-  ## Table of contents
+<div id="dragged">
+  <div id="draggable" >
+    Drag me
+  </div>
+  <div markdown = "1">
 
-  - ### [Intro](#gabes-portfolio)
+## Table of contents
 
-  - ### [Education](#education-1)
+- ### [Intro](#gabes-portfolio)
 
-  - ### [Experience](#experience-1)
+- ### [Education](#education-1)
 
-  - ### [Programming language](#programming-language-1)
+- ### [Experience](#experience-1)
 
-  - ### [Game Projects](#game-projects-1)
+- ### [Programming language](#programming-language-1)
 
-  - ### [Socials and other links](#socials-and-other-links-2)
+- ### [Game Projects](#game-projects-1)
 
+- ### [Socials and other links](#socials-and-other-links-2)
+
+  </div>
 </div>
 
 <script>
@@ -70,13 +74,13 @@
         }
 </script>
 
-
-
 <div class="videobanner-container">
   <video class="videobanner-player" src="assets/media/videos/banner.mp4" type="video/mp4" autoplay loop muted></video>
 </div>
 
 # Gabe’s Portfolio
+
+for the intended viewing experience, please use a chromium browser :D
 
 ## I am Gabriel,
 
@@ -124,9 +128,13 @@ Intern Game Programmer | Nov 2022 - May 2023
 
 <img class = "project-thumbnail" src="assets/media/images/ESC_4x3.png"/>
 
+<div class = "project-paragraph" markdown = "1">
+
 - ## Esc:RNG
 
 is a 2D pixel roguelike shooter where a group of gacha game players left poor reviews of a gacha game, which caused the developers to trap them inside the game to witness their suffering. In a game universe made by egoistic, incompetent, magic-wielding developers, the players will have to find their way out to return to their normal world by fighting enemies in the buggy game.
+
+<div class = 'h3a-rightalign'></div>
 
 ### [Devlog](EscRNG.md)
 
@@ -134,11 +142,17 @@ is a 2D pixel roguelike shooter where a group of gacha game players left poor re
 
 PC, Group Project, Unity, FYP, 2022
 
+</div>
+
 <img class = "project-thumbnail" src="assets/media/images/FAC_4x3.png"/>
+
+<div class = "project-paragraph" markdown = "1">
 
 - ## Façade: Murder at the Masquerade
 
 is a 3D point-and-click murder mystery where no one is to be trusted. A murder has occurred at the Maximillian Mansion! As the local detective, the player investigates the murder at the mansion in a point-and-click puzzle game. Players would investigate the mansion for clues and interrogate suspects to uncover the truth behind the mansion owner’s death.
+
+<div class = 'h3a-rightalign'></div>
 
 ### [Devlog](Facade.md)
 
@@ -146,11 +160,17 @@ is a 3D point-and-click murder mystery where no one is to be trusted. A murder h
 
 Android, Group Project, Unity, 2022
 
+</div>
+
+<div class = "project-paragraph" markdown = "1">
+
 <img class = "project-thumbnail" src="assets/media/images/COL_4x3.png"/>
 
 - ## Coal Call
 
 is a roguelike deck-builder game, strategize the use of Empowerment during battles, gain card rewards and coal by defeating monsters and discover new locations and events as you continue your search for coal in a land swept by eternal winter.
+
+<div class = 'h3a-rightalign'></div>
 
 ### [Devlog](CoalCall.md)
 
@@ -158,29 +178,47 @@ is a roguelike deck-builder game, strategize the use of Empowerment during batt
 
 PC, Group Project, Unity, 2021
 
+</div>
+
+<div class = "project-paragraph" markdown = "1">
+
 - ## Stance Stance Revolution
 
 is a mobile game exercise integrating Firebase to allow for user credential registration, login, and a competitive leaderboard in this souls-inspired dodging game.
+
+<div class = 'h3a-rightalign'></div>
 
 ### [Devlog is Archived]()
 
 ### Category
 
 Android, Solo Project, Unity, 2021
+
+</div>
+
+<div class = "project-paragraph" markdown = "1">
 
 - ## Parkor Knihgt
 
 is an endless runner where you play as a knight-dude in shining armour running through a hazardous collapsing valley, parkour over obstacles to earn extra points, which can be used to learn more parkour actions, to earn more points. Earn the most points before succumbing to your mistakes.
 
+<div class = 'h3a-rightalign'></div>
+
 ### [Devlog is Archived]()
 
 ### Category
 
 Android, Solo Project, Unity, 2021
 
+</div>
+
+<div class = "project-paragraph" markdown = "1">
+
 - ## Honster Munter
 
 is a text-input RPG with ascii GUI, where you play one of three monsters, getting your revenge on hunters overstepping their bounds in nature. Explore the world, fight hunters in a turn based battle, learn skills, use items and defeat the hunter’s guild to avenge your fallen kin.
+
+<div class = 'h3a-rightalign'></div>
 
 ### [Devlog is Archived]()
 
@@ -188,9 +226,15 @@ is a text-input RPG with ascii GUI, where you play one of three monsters, gettin
 
 Console App, Solo Project, Unity, 2020
 
+</div>
+
+<div class = "project-paragraph" markdown = "1">
+
 - ## Neon Adderall
 
 is a PC typing game. Earn the most points possible while maintaining the highest WPM to increase your point multiplier.
+
+<div class = 'h3a-rightalign'></div>
 
 ### [Devlog is Archived]()
 
@@ -198,39 +242,59 @@ is a PC typing game. Earn the most points possible while maintaining the highest
 
 PC, Solo Project, Unity, 2020
 
+</div>
+
 <img class = "project-thumbnail" src="assets/media/images/NCG_4x3.png"/>
+
+<div class = "project-paragraph" markdown = "1">
 
 - ## Neon Cigarette
 
 is a platformer set in a cliche cyberpunk setting, you wake up in a cigarette factory with no recollection of how you got there. Make use of items you obtain throughout the locale to fight and platform your way out of the bad guy ridden factory.
 
+<div class = 'h3a-rightalign'></div>
+
 ### [Devlog is Archived]()
 
 ### Category
 
 Flash, Solo Project, Stencyl, 2020
 
+</div>
+
 <img class = "project-thumbnail" src="assets/media/images/CYP_4x3.png"/>
+
+<div class = "project-paragraph" markdown = "1">
 
 - ## Cyberponk 2001
 
 is a pong game with character selection and powerups, featuring PVP and PVC game modes.
 
+<div class = 'h3a-rightalign'></div>
+
 ### [Devlog is Archived]()
 
 ### Category
 
 Flash, Solo Project, Stencyl, 2020
 
+</div>
+
+<div class = "project-paragraph" markdown = "1">
+
 - ## Taste Buds
 
 is a tabletop card game where you compete against other players by serving up one of many dishes based on what ingredients are available to you. The more complex the dish, the more points earned.
+
+<div class = 'h3a-rightalign'></div>
 
 ### [Devlog is Archived]()
 
 ### Category
 
 Tabletop, Group Project, 2020
+
+</div>
 
 # Socials and other links
 
@@ -248,3 +312,4 @@ Tabletop, Group Project, 2020
 
 - ### [Send me an email here](mailto:kwagabriel011206@gmail.com)
 
+---
