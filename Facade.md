@@ -61,7 +61,7 @@ or check out the game below!
         }
 </script>
 
-<img class = "project-banner" src="assets/media/images/FAC_banner.png"></img>
+<img class = "project-banner" src="assets/media/images/FAC_banner.png"/>
 
 # Façade: Murder at the Masquerade
 

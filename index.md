@@ -10,17 +10,17 @@
         
   ## Table of contents
 
-- ### [Intro](#gabes-portfolio)
+  - ### [Intro](#gabes-portfolio)
 
-- ### [Education](#education-1)
+  - ### [Education](#education-1)
 
-- ### [Experience](#experience-1)
+  - ### [Experience](#experience-1)
 
-- ### [Programming language](#programming-language-1)
+  - ### [Programming language](#programming-language-1)
 
-- ### [Game Projects](#game-projects-1)
+  - ### [Game Projects](#game-projects-1)
 
-- ### [Socials and other links](#socials-and-other-links-2)
+  - ### [Socials and other links](#socials-and-other-links-2)
 
 </div>
 
@@ -122,7 +122,7 @@ Intern Game Programmer | Nov 2022 - May 2023
 
 # Game Projects
 
-<img class = "project-thumbnail" src="assets/media/images/ESC_4x3.png"></img>
+<img class = "project-thumbnail" src="assets/media/images/ESC_4x3.png"/>
 
 - ## Esc:RNG
 
@@ -134,7 +134,7 @@ is a 2D pixel roguelike shooter where a group of gacha game players left poor re
 
 PC, Group Project, Unity, FYP, 2022
 
-<img class = "project-thumbnail" src="assets/media/images/FAC_4x3.png"></img>
+<img class = "project-thumbnail" src="assets/media/images/FAC_4x3.png"/>
 
 - ## Façade: Murder at the Masquerade
 
@@ -146,7 +146,7 @@ is a 3D point-and-click murder mystery where no one is to be trusted. A murder h
 
 Android, Group Project, Unity, 2022
 
-<img class = "project-thumbnail" src="assets/media/images/COL_4x3.png"></img>
+<img class = "project-thumbnail" src="assets/media/images/COL_4x3.png"/>
 
 - ## Coal Call
 
@@ -198,7 +198,7 @@ is a PC typing game. Earn the most points possible while maintaining the highest
 
 PC, Solo Project, Unity, 2020
 
-<img class = "project-thumbnail" src="assets/media/images/NCG_4x3.png"></img>
+<img class = "project-thumbnail" src="assets/media/images/NCG_4x3.png"/>
 
 - ## Neon Cigarette
 
@@ -210,7 +210,7 @@ is a platformer set in a cliche cyberpunk setting, you wake up in a cigarette fa
 
 Flash, Solo Project, Stencyl, 2020
 
-<img class = "project-thumbnail" src="assets/media/images/CYP_4x3.png"></img>
+<img class = "project-thumbnail" src="assets/media/images/CYP_4x3.png"/>
 
 - ## Cyberponk 2001
 

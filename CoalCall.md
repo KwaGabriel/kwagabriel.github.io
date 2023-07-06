@@ -61,7 +61,7 @@ or check out the game below!
         }
 </script>
 
-<img class = "project-banner" src="assets/media/images/COL_banner.png"></img>
+<img class = "project-banner" src="assets/media/images/COL_banner.png"/>
 
 # Coal Call
 
@@ -85,38 +85,38 @@ A lot of the systems in this project involve tweaking variables in the editor on
 
 The project was inspired by STS, and one of the few things I wanted to make was the map with multiple paths, branch-style. 
 
-<img class = "project-media-img" src="assets/media/images/COL_gameview_nodemap.png">
+<img class = "project-media-img" src="assets/media/images/COL_gameview_nodemap.png"/>
 <p class = "project-media-imgtext">hover to enlarge</p>
-</img>
+
 
 Designers will to tweak what events were available at that stage, and how many was allowed to occur in a stage.
 
-<img class = "project-media-img" src="assets/media/images/COL_editor_nodeweighting.png">
+<img class = "project-media-img" src="assets/media/images/COL_editor_nodeweighting.png"/>
 <p class = "project-media-imgtext">hover to enlarge</p>
-</img>
+
 
 ## Other contributions
 
 I also helped to design the class for the cards used as well as enemy values alongside the use cases defined by our designers. It affects the turn-based card battles, the Empower effect, and status effects in the battle gameplay loop.
 
-<img class = "project-media-img" src="assets/media/images/COL_editor_cardpseudoscriptableobj.png">
+<img class = "project-media-img" src="assets/media/images/COL_editor_cardpseudoscriptableobj.png"/>
 <p class = "project-media-imgtext">hover to enlarge</p>
-</img>
-<img class = "project-media-img" src="assets/media/images/COL_gameview_battle_multienemy.png">
+
+<img class = "project-media-img" src="assets/media/images/COL_gameview_battle_multienemy.png"/>
 <p class = "project-media-imgtext">hover to enlarge</p>
-</img>
+
 
 
 
 I also contributed were player data saving, it was intimidating as it was a first major project for me to save the necessary player data and load from it. Minor contributions also included GUIs, events system, and shops.
-<img class = "project-media-img" src="assets/media/images/COL_editor_eventmanager.png">
+<img class = "project-media-img" src="assets/media/images/COL_editor_eventmanager.png"/>
 <p class = "project-media-imgtext">hover to enlarge</p>
-</img>
-<img class = "project-media-img" src="assets/media/images/COL_editor_playerdata.png">
+
+<img class = "project-media-img" src="assets/media/images/COL_editor_playerdata.png"/>
 <p class = "project-media-imgtext">hover to enlarge</p>
-</img>
-<img class = "project-media-img" src="assets/media/images/COL_gameview_shop.png">
+
+<img class = "project-media-img" src="assets/media/images/COL_gameview_shop.png"/>
 <p class = "project-media-imgtext">hover to enlarge</p>
-</img>
+
 
 ---
