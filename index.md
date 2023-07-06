@@ -11,22 +11,24 @@
   </div>
   <div markdown = "1">
 
-## Table of contents
+  ## Table of contents
 
-- ### [Intro](#gabes-portfolio)
+  - ### [Intro](#gabes-portfolio)
 
-- ### [Education](#education-1)
+  - ### [Education](#education-1)
 
-- ### [Experience](#experience-1)
+  - ### [Experience](#experience-1)
 
-- ### [Programming language](#programming-language-1)
+  - ### [Programming language](#programming-language-1)
 
-- ### [Game Projects](#game-projects-1)
+  - ### [Game Projects](#game-projects-1)
 
-- ### [Socials and other links](#socials-and-other-links-2)
+  - ### [Socials and other links](#socials-and-other-links-2)
 
   </div>
 </div>
+
+<div markdown ="0"></div>
 
 <script>
         // Make the DIV element draggable:
