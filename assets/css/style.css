@@ -2,13 +2,13 @@
 
 @font-face {
     font-family: "interFont";
-    src: url("assets/fonts/Inter-VariableFont_slnt,wght.ttf") format("truetype");
+    src: url("/assets/fonts/Inter-VariableFont_slnt,wght.ttf") format("truetype");
     /* Add more src lines for other font file formats if necessary */
 }
   
 @font-face {
     font-family: "cinefontFont";
-    src: url("assets/fonts/cinecaption226.ttf") format("truetype");
+    src: url("/assets/fonts/cinecaption226.ttf") format("truetype");
 }
 
 :root {
@@ -30,6 +30,7 @@ body {
     margin-right: calc(var(--margin-leftright-size-percent) + 5%);
     margin-top: 0;
     margin-bottom: 0;
+    color: lightgray;
     font-family: "interFont", sans-serif;
     text-align: justify;
     text-justify: inter-word;

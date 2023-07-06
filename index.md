@@ -9,7 +9,6 @@
   <div id="draggable">Drag me</div>
         <h2>Table of Contents</h2>
 
-
 - ### [Intro](#gabes-portfolio)
 
 - ### [Education](#education-1)
