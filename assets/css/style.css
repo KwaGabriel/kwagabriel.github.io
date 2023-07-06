@@ -80,7 +80,7 @@ body {
 
 #dragged.dragged-gamedoc-version {
     text-align: center;
-    width: 31%;
+    width: 32%;
     transform: scale(70%,70%) translate(-125%, 20%);
 }
 
@@ -152,7 +152,7 @@ p {
 }
 
 .project-paragraph ul{
-    margin-left: -5%;
+    margin-left: -5.5%;
 }
 
 /*Projects image*/
@@ -176,7 +176,7 @@ img.project-banner {
 img.project-media-img {
     z-index: 9;
     position: relative;  
-    width:30%;
+    width: 30%;
     margin-left: 30%;
     transition: transform .25s ease, box-shadow .25s ease, z-index 1s ease;
 }
