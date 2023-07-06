@@ -80,7 +80,7 @@
 
 # Gabe’s Portfolio
 
-for the intended viewing experience, please use a chromium browser :D
+for the intended viewing experience, please use a chromium browser :D t
 
 ## I am Gabriel,
 
