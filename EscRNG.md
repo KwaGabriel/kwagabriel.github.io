@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="assets/css/style.css"></link>
+<link rel="stylesheet" href="assets/css/style.css"/>
 
 <div class = "left_banner"></div>
 <div class = "right_banner"></div>
@@ -61,7 +61,7 @@ or check out the game below!
         }
 </script>
 
-<img class = "project-banner" src="assets/media/images/ESC_banner.png"></img>
+<img class = "project-banner" src="assets/media/images/ESC_banner.png"/>
 
 # Esc:RNG
 
@@ -79,15 +79,13 @@ The team came to an agreement that our project required lots of repetitive work 
 
 ## Procedural Dungeon asset tool
 
-<img class = "project-media-img" src="assets/media/images/ESC_editor_genmanager.png">
+<img class = "project-media-img" src="assets/media/images/ESC_editor_genmanager.png"/>
 <p class = "project-media-imgtext">hover to enlarge</p>
-</img>
 
 One of the tools was for Zelda-style procedural dungeon generation.
 
-<img class = "project-media-img" src="assets/media/images/ESC_editor_roommanager_overview.png">
+<img class = "project-media-img" src="assets/media/images/ESC_editor_roommanager_overview.png"/>
 <p class = "project-media-imgtext">hover to enlarge</p>
-</img>
 
 It uses the built-in tilemap from Unity and allows for parameter tweaking. It allows the designers to make, save, and define generation rules for the room when the game generates the dungeons.
 
@@ -95,21 +93,18 @@ It uses the built-in tilemap from Unity and allows for parameter tweaking. It al
 
 Aside from that, a tool was also made for weapon gacha and weapon crafting rules.
 
-<img class = "project-media-img" src="assets/media/images/ESC_editor_gachapull.png">
+<img class = "project-media-img" src="assets/media/images/ESC_editor_gachapull.png"/>
 <p class = "project-media-imgtext">hover to enlarge</p>
-</img>
 
 I made the tools based on requirements from the game design document while making use of scriptable objects.
 
-<img class = "project-media-img" src="assets/media/images/ESC_editor_scriptobj_weapontraitsandtype.png">
+<img class = "project-media-img" src="assets/media/images/ESC_editor_scriptobj_weapontraitsandtype.png"/>
 <p class = "project-media-imgtext">hover to enlarge</p>
-</img>
 
 While unpublished, there was also a UnityEvents system tool integrating scriptable objects, this was planned to be used should development of the game continue past the required assignment.
 
-<img class = "project-media-img" src="assets/media/images/ESC_editor_tutorialmanager.png">
+<img class = "project-media-img" src="assets/media/images/ESC_editor_tutorialmanager.png"/>
 <p class = "project-media-imgtext">hover to enlarge</p>
-</img>
 
 ## Other Contributions
 

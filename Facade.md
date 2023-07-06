@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="assets/css/style.css"></link>
+<link rel="stylesheet" href="assets/css/style.css"/>
 
 <div class = "left_banner"></div>
 <div class = "right_banner"></div>

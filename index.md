@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="assets/css/style.css"></link>
+<link rel="stylesheet" href="assets/css/style.css"/>
 
 <!--- UI -->
 <div class = "left_banner"></div>
@@ -7,7 +7,8 @@
 <!--- Directory --->
 <div id="dragged" markdown = "1">
   <div id="draggable">Drag me</div>
-        <h2>Table of Contents</h2>
+        
+  ## Table of contents
 
 - ### [Intro](#gabes-portfolio)
 
