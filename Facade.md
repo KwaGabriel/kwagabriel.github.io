@@ -5,7 +5,7 @@
 
 
 <!--- Directory --->
-<div id="dragged" class="dragged-gamedoc-version">
+<div id="dragged" class="dragged-gamedoc-version" markdown = "1">
   <div id="draggable">Drag me</div>
 
 ## [Back to home page](index.md)

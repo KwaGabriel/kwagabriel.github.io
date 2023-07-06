@@ -5,7 +5,7 @@
 <div class = "right_banner"></div>
 
 <!--- Directory --->
-<div id="dragged">
+<div id="dragged" markdown = "1">
   <div id="draggable">Drag me</div>
         <h2>Table of Contents</h2>
 
