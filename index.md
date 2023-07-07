@@ -2,8 +2,6 @@
 <link rel="shortcut icon" type="image/png" href="{{ '/assets/media/images/favicon.png' | absolute_url }}">
 
 <!--- UI -->
-<img class = "loading-bg" src = "assets/media/images/melodorothy_portrait.png"/>
-
 <div class = "left_banner"></div>
 <div class = "right_banner"></div>
 
@@ -29,23 +27,12 @@
 </div>
 </div>
 
-<script>    
-    function startImageTransition() {
-        alert("loading");
-        var image = document.getElementsByClassName("loading-bg");
-
-        var del = 0.01;
-        var id = setInterval(changeOpacity, 10);
-    
-        function changeOpacity() {
-            image.style.opacity -= del;
-            if (image.style.opacity <= 0) {
-                clearInterval(id);
-                resolve();
-            }
-        }
-    }
-</script>
+<div class="loading-bg">
+<div class="loader">
+  <div class="loader-wheel"></div>
+  <div class="loader-text"></div>
+</div>
+</div>
 
 <div markdown ="0"></div>
 
