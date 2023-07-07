@@ -81,8 +81,6 @@
 
 # Gabe’s Portfolio
 
-for the intended viewing experience, please use a chromium browser :D
-
 ## I am Gabriel,
 
 a game dev from UOWM KDU.
