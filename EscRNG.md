@@ -1,12 +1,15 @@
 <head>
-  <meta name="image" property="og:image" content="assets/media/images/repository-open-graph-gabe.png">
-  <meta name="author" content="Gabriel Kwa">
-  <meta name="title" property="og:title" content="Gabe's Portfolio">
-  <meta name="description" property="og:description" content="Check out my works on game systems design and implementation here.">
-  <link rel="stylesheet" href="assets/css/style.css"/>
-  <link rel="shortcut icon" type="image/png" href="{{ 'assets/media/images/favicon.png' | absolute_url }}">
-  <link rel="shortcut icon" type="image/x-icon" href="assets/media/images/favicon.png">
+  <meta property="og:title" content="Gabe's Portfolio" />
+  <meta property="og:type" content="video.movie" />
+  <meta property="og:url" content="https://kwagabriel.github.io" />
+  <meta property="og:image" content="https://kwagabriel.github.io/assets/media/images/repository-open-graph-gabe.png" />
+  <meta name="author" content="Gabriel Kwa" />
+  <meta name="description" property="og:description" content="Check out my works on game systems design and implementation here." />
+  <link rel="stylesheet" href="assets/css/style.css" />
+  <link rel="shortcut icon" type="image/png" href="{{ 'assets/media/images/favicon.png' | absolute_url }}" />
+  <link rel="shortcut icon" type="image/x-icon" href="assets/media/images/favicon.png" />
 </head>
+
 <div class = "left_banner"></div>
 <div class = "right_banner"></div>
 
