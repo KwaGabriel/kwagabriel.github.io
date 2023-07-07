@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="assets/css/style.css"/>
+<link rel="shortcut icon" type="image/png" href="{{ '/assets/media/images/favicon.png' | absolute_url }}">
 
 <div class = "left_banner"></div>
 <div class = "right_banner"></div>
@@ -12,7 +13,7 @@
 
 or check out the game below!
 
-<iframe src="https://itch.io/embed/996400?dark=true" width="107%" height="100%" frameborder="0"><a href="https://uowmgames.itch.io/coal-call">Coal Call by UOWM Game Development, rend.exe, s34nn, miragelix</a></iframe>
+<iframe src="https://itch.io/embed/996400?dark=true" width="100%" height="100%" frameborder="0"><a href="https://uowmgames.itch.io/coal-call">Coal Call by UOWM Game Development, rend.exe, s34nn, miragelix</a></iframe>
 </div>
 
 <script>

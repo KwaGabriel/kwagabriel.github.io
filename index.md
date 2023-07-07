@@ -31,6 +31,7 @@
 
 <script>    
     function startImageTransition() {
+        alert("loading");
         var image = document.getElementsByClassName("loading-bg");
 
         var del = 0.01;
@@ -334,5 +335,5 @@ Tabletop, Group Project, 2020
 
 ---
 <script>
-  window.addEventListener ? window.addEventListener("load",startImageTransition,false) : window.attachEvent && window.attachEvent("onload",startImageTransition);
+  window.addEventListener ? window.addEventListener("load",startImageTransition(),false) : window.attachEvent && window.attachEvent("onload",startImageTransition());
 </script>
