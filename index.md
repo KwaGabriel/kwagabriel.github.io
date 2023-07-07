@@ -2,8 +2,7 @@
 <link rel="shortcut icon" type="image/png" href="{{ '/assets/media/images/favicon.png' | absolute_url }}">
 
 <head>
-      <meta property="og:image" content={/assets/media/images/repository-open-graph-gabe} />
-      <meta name="og:image" content={/assets/media/images/repository-open-graph-gabe} />
+  <meta name="image" property="og:image" content="/assets/media/images/repository-open-graph-gabe.png">
 </head>
 
 
