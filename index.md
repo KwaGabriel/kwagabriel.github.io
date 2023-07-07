@@ -5,6 +5,7 @@
   <meta name="description" property="og:description" content="Check out my works on game systems design and implementation here.">
   <link rel="stylesheet" href="assets/css/style.css"/>
   <link rel="shortcut icon" type="image/png" href="{{ 'assets/media/images/favicon.png' | absolute_url }}">
+  <link rel="shortcut icon" type="image/x-icon" href="assets/media/images/favicon.png">
 </head>
 
 
