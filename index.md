@@ -1,6 +1,13 @@
 <link rel="stylesheet" href="assets/css/style.css"/>
 <link rel="shortcut icon" type="image/png" href="{{ '/assets/media/images/favicon.png' | absolute_url }}">
 
+<head>
+      <meta property="og:image" content={/assets/media/images/repository-open-graph-gabe} />
+      <meta name="og:image" content={/assets/media/images/repository-open-graph-gabe} />
+</head>
+
+
+
 <!--- UI -->
 <div class = "left_banner"></div>
 <div class = "right_banner"></div>
@@ -78,8 +85,6 @@
 <div class="videobanner-container">
   <video class="videobanner-player" src="assets/media/videos/banner.mp4" type="video/mp4" autoplay loop muted></video>
 </div>
-
-<img src="assets/media/images/repository-open-graph-gabe.png" width="0%" height = "0%"/>
 
 # Gabe’s Portfolio
 
