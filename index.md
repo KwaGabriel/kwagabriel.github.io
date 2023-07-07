@@ -79,6 +79,8 @@
   <video class="videobanner-player" src="assets/media/videos/banner.mp4" type="video/mp4" autoplay loop muted></video>
 </div>
 
+<img src="assets/media/images/repository-open-graph-gabe.png" width="0%" height = "0%"/>
+
 # Gabe’s Portfolio
 
 ## I am Gabriel,
