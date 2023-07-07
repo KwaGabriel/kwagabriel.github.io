@@ -12,7 +12,7 @@
 
 or check out the game below!
 
-<iframe allow="autoplay" src="https://itch.io/embed/1491579?border_width=0&amp;dark=true" width="550" height="165" frameborder="0"><a href="https://uowmgames.itch.io/escrng">Esc:RNG by UOWM Game Development</a></iframe>
+<iframe allow="autoplay" src="https://itch.io/embed/1491579?border_width=0&amp;dark=true" width="107%" height="100%" frameborder="0"><a href="https://uowmgames.itch.io/escrng">Esc:RNG by UOWM Game Development</a></iframe>
 </div>
 
 <script>

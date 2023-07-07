@@ -1,6 +1,9 @@
 <link rel="stylesheet" href="assets/css/style.css"/>
+<link rel="shortcut icon" type="image/png" href="{{ '/assets/media/images/favicon.png' | absolute_url }}">
 
 <!--- UI -->
+<img class = "loading-bg" src = "assets/media/images/melodorothy_portrait.png"/>
+
 <div class = "left_banner"></div>
 <div class = "right_banner"></div>
 
@@ -25,6 +28,23 @@
 
 </div>
 </div>
+
+<script>    
+    function startImageTransition() {
+        var image = document.getElementsByClassName("loading-bg");
+
+        var del = 0.01;
+        var id = setInterval(changeOpacity, 10);
+    
+        function changeOpacity() {
+            image.style.opacity -= del;
+            if (image.style.opacity <= 0) {
+                clearInterval(id);
+                resolve();
+            }
+        }
+    }
+</script>
 
 <div markdown ="0"></div>
 
@@ -313,3 +333,6 @@ Tabletop, Group Project, 2020
 - ### [Send me an email here](mailto:kwagabriel011206@gmail.com)
 
 ---
+<script>
+  window.addEventListener ? window.addEventListener("load",startImageTransition,false) : window.attachEvent && window.attachEvent("onload",startImageTransition);
+</script>

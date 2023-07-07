@@ -12,7 +12,7 @@
 
 or check out the game below!
 
-<iframe src="https://itch.io/embed/1162355?dark=true" width="552" height="167" frameborder="0"><a href="https://uowmgames.itch.io/facade-murder-at-the-masquerade">Façade: Murder At The Masquerade by UOWM Game Development, JYGL, NorthWestSouth, cosmickatsu, Nazaza, rend.exe, CalebFoo, ICH0RR, FloW75, Tan Xinyi</a></iframe>
+<iframe src="https://itch.io/embed/1162355?dark=true" width="107%" height="100%" frameborder="0"><a href="https://uowmgames.itch.io/facade-murder-at-the-masquerade">Façade: Murder At The Masquerade by UOWM Game Development, JYGL, NorthWestSouth, cosmickatsu, Nazaza, rend.exe, CalebFoo, ICH0RR, FloW75, Tan Xinyi</a></iframe>
 </div>
 
 <script>
@@ -81,9 +81,13 @@ Due to the designers on the team not being as familiar with Unity, instead of be
 
 One of the tools made was made in Unity and the data was serialised into JSON using the same class used in the game. 
 
-[image not available]
+<img class = "project-media-img" src="assets/media/images/FAC_gameview_journaltool.png"/>
+<p class = "project-media-imgtext">hover to enlarge</p>
 
 Once the designers deemed the content to be suitable it will just be a single folder to drag and drop into the game’s asset directory. This was used for our game’s journal entries which the player can access in game corresponding to the clues obtained. 
+
+<img class = "project-media-img" src="assets/media/images/FAC_editor_journaldatajson.png"/>
+<p class = "project-media-imgtext">hover to enlarge</p>
 
 Looking back, the implementation was just a normal data class rather than a scriptable object class, which would definitely be suitable for this use case.
 
@@ -91,9 +95,13 @@ Looking back, the implementation was just a normal data class rather than a scri
 
 For the puzzle, I was responsible for the tea cup placement puzzle, using lerp for location and rotation, I was able to complete this puzzle fairly straightforward-ly. 
 
-[image not available]
+<img class = "project-media-img" src="assets/media/images/FAC_editor_cupmanager.png"/>
+<p class = "project-media-imgtext">hover to enlarge</p>
 
 I then used the render texture system made by a team member to have it display as an overlay when engaged in the puzzle action.
+
+<img class = "project-media-img" src="assets/media/images/FAC_gameview_testcuppuzzle.png"/>
+<p class = "project-media-imgtext">hover to enlarge</p>
 
 ## Other contributions
 

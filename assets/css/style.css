@@ -24,6 +24,16 @@
 }
 
 /*BGs*/
+
+.loading-bg {
+    width: 100%;
+    height: 100%;
+    top:0;
+    left:0;
+    z-index: 99;
+    position: fixed;
+}
+
 body {
     background-color: var(--content-fill-color);
     margin-left: calc(var(--margin-leftright-size-percent) + 5%);
@@ -34,6 +44,7 @@ body {
     font-family: "interFont", sans-serif;
     text-align: justify;
     text-justify: inter-word;
+    text-size-adjust: auto;
 }
 
 .left_banner {
