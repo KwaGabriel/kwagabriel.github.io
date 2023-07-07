@@ -27,13 +27,6 @@
 </div>
 </div>
 
-<div class="loading-bg">
-<div class="loader">
-  <div class="loader-wheel"></div>
-  <div class="loader-text"></div>
-</div>
-</div>
-
 <div markdown ="0"></div>
 
 <script>
@@ -321,6 +314,8 @@ Tabletop, Group Project, 2020
 - ### [Send me an email here](mailto:kwagabriel011206@gmail.com)
 
 ---
-<script>
-  window.addEventListener ? window.addEventListener("load",startImageTransition(),false) : window.attachEvent && window.attachEvent("onload",startImageTransition());
-</script>
+<div class="loading-bg">
+  <div class="loader">
+    <div class="loader-text"></div>
+  </div>
+</div>

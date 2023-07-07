@@ -26,6 +26,12 @@
 /*BGs*/
 @keyframes loadDelayFade {
     0%{
+        z-index: 13;
+        width:100%;
+        height:100%;
+        margin-left: 0;
+        padding-left: 0%;
+        position:fixed;
         background-color: black;
         color: #fff;
     }
@@ -36,39 +42,60 @@
     90%{
         background-color: rgba(0, 0, 0, 0);
     }
+
+    99%{
+        z-index: 13;
+        width:100%;
+        height:100%;
+        margin-left: 0;
+        padding-left: 0%;
+        position:fixed;
+
+    }
     100%{        
         color: #00000000;
+        width: 0;
+        height: 0;
+        z-index: 0;
+        margin-left: 200%;
+        padding-left: 200%;
+        position: relative;
     }
 }
 
 .loading-bg {
+    z-index: 0;
     width: 100%;
     height: 100%;
     top:0;
     left:0;
-    z-index: 99;
     position: fixed;
     align-items: center;
     background-color: rgba(0, 0, 0, 0);
-    display: flex;    
+    display: flex;
     justify-content: center;
     margin: 0;
 
-    animation: 2s ease 0s 1 loadDelayFade;
+    animation: 3s ease 0s 1 loadDelayFade;
 }
   
 .loader {
+    z-index: 0;
+
     width: 70px;
 }
 
 .loader-text {
+    width: 70px;
+
+    z-index: 0;
     color: #00000000;
-    animation: 2s ease 0s 1 loadDelayFade;
+    animation: 2.5s ease 0s 1 loadDelayFade;
 }
 
 .loader-text:after {
     content: 'Loading';
-    animation: load 2s linear infinite, 2s ease 0s 1 loadDelayFade;
+    animation: load 1.5s linear infinite, 3s ease 0s 1 loadDelayFade;
 }
 
 @keyframes load {
