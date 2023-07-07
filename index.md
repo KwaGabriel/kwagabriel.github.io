@@ -14,15 +14,15 @@
 
 - ### [Intro](#gabes-portfolio)
 
-- ### [Education](#education-1)
+- ### [Education](#section-education)
 
-- ### [Experience](#experience-1)
+- ### [Experience](#section-experience)
 
-- ### [Programming language](#programming-language-1)
+- ### [Programming language](#section-programminglanguage)
 
-- ### [Game Projects](#game-projects-1)
+- ### [Game Projects](#section-gameprojects)
 
-- ### [Socials and other links](#socials-and-other-links-2)
+- ### [Socials and other links](#section-socialsandotherlinks)
 
 </div>
 </div>
@@ -97,17 +97,17 @@ Please drop me an email if there are any questions or for further discussion, I 
 
 <div class = 'h3a-rightalign'></div>
 
-### [Socials and other links](#socials-and-other-links-2)
+### [View socials and other links](#socials-and-other-links)
 
 
-# Education
+# <a name="section-education"></a> Education
 
 ## University of Wollongong Malaysia KDU
 
 Bachelor of Games Development (Hons) - Game Tech | CGPA 3.8
 
 
-# Experience
+# <a name="section-experience"></a> Experience
 
 ## [Nimbus Games](https://nimbusgames.dev/)
 
@@ -125,7 +125,7 @@ Intern Game Programmer | Nov 2022 - May 2023
 
 
 
-# Game Projects
+# <a name="section-gameprojects"></a> Game Projects
 
 <img class = "project-thumbnail" src="assets/media/images/ESC_4x3.png"/>
 
@@ -297,7 +297,7 @@ Tabletop, Group Project, 2020
 
 </div>
 
-# Socials and other links
+# <a name="section-socialsandotherlinks"></a> Socials and other links
 
 <!-- - ### [Esc:RNG](EscRNG.md)
     
