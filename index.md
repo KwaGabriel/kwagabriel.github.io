@@ -113,7 +113,7 @@ Bachelor of Games Development (Hons) - Game Tech | CGPA 3.8
 
 Intern Game Programmer | Nov 2022 - May 2023
 
-# Programming language
+# <a name="section-programminglanguage"></a> Programming language
 
 ## Proficiency in descending order
 
