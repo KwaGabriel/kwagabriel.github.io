@@ -7,7 +7,7 @@
   <meta name="title" property="og:title" content="Gabe's Portfolio" />
   <meta name="type" property="og:type" content="website" />
   <meta name="url" property="og:url" content="https://kwagabriel.github.io" />
-  <meta name="image" property="og:image" content="https://kwagabriel.github.io/assets/media/images/repository-open-graph-gabe.png" />
+  <meta name="image" property="og:image" content="https://kwagabriel.github.io/assets/media/images/badge.png" />
   <meta name="author" content="Gabriel Kwa" />
   <meta name="description" property="og:description" content="Check out my works on game systems design and implementation here." />
   <link rel="stylesheet" href="assets/css/style.css" />
@@ -98,6 +98,7 @@
 </div>
 
 # Gabe’s Portfolio
+<img class = "badge" src="assets/media/images/badge.png"/>
 
 ## I am Gabriel,
 

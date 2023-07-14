@@ -176,6 +176,10 @@ body {
     transform: scale(70%,70%) translate(-125%, 20%);
 }
 
+.badge {
+    width: 0%;
+}
+
 html {
     scroll-behavior:smooth;
 }
