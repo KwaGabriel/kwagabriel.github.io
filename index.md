@@ -114,7 +114,7 @@ Please drop me an email if there are any questions or for further discussion, I 
 
 <div class = 'h3a-rightalign'></div>
 
-### [View socials and other links](#socials-and-other-links)
+### [View socials and other links](#section-socialsandotherlinks)
 
 
 # <a name="section-education"></a> Education
