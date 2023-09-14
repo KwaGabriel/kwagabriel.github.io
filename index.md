@@ -102,10 +102,10 @@
 
 ## I am Gabriel,
 
-a game dev from UOWM KDU.
+a game dev from UOWM KDU. Currently a Junior Programmer at Kaigan :D
 
 I have been acquainted with Unity throughout my course completing solo and team projects alike. For my final year project, I was part of Studio Reroll that made Esc:RNG as a general game programmer.
-I have also been doing UE related projects during my internship at Nimbus Games.
+I did UE related projects during my internship at Nimbus Games.
 Please drop me an email if there are any questions or for further discussion, I look forward to hearing from you!
 
 <div class = 'h3a-rightalign'></div>
