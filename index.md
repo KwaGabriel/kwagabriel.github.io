@@ -1,4 +1,5 @@
 <head>
+  <meta name="google-site-verification" content="O6TvHermp6TpCB1HhEiDy5GtQge7kK3dwB3zqQf9OJk" />
   <meta name="robots" content="index,follow" />
   <meta name="language" content="English" />
   <meta name="revisit-after" content="1 day" />
