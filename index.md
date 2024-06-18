@@ -43,6 +43,8 @@
 
 - ### [Socials and other links](#section-socialsandotherlinks)
 
+- ### [Lan Controller](LanTestController.md)
+
 </div>
 </div>
 
