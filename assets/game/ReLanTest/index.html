@@ -7,9 +7,9 @@
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
   </head>
-  <body style="background-color:black">
+  <body style="background-color:#161616">
     <div id="unity-container" class="unity-desktop">
-      <canvas id="unity-canvas" height="600" width="600" style="width: 600px; height: 600px; cursor: default;" tabindex="-1"></canvas>
+      <canvas id="unity-canvas" height="100%" width="100%" style="width: 100%; height: 100%; cursor: default;" tabindex="-1"></canvas>
       <div id="unity-loading-bar">
         <div id="unity-logo"></div>
         <div id="unity-progress-bar-empty">
@@ -17,10 +17,6 @@
         </div>
       </div>
       <div id="unity-warning"> </div>
-      <div id="unity-footer">
-        <div id="unity-fullscreen-button"></div>
-        <div id="unity-build-title" style="background-color:#712256">ReLanTest</div>
-      </div>
     </div>
     <script>
 
@@ -93,8 +89,8 @@
       } else {
         // Desktop style: Render the game canvas in a window that can be maximized to fullscreen:
 
-        canvas.style.width = "960px";
-        canvas.style.height = "600px";
+        canvas.style.width = "100%";
+        canvas.style.height = "100%";
       }
 
       loadingBar.style.display = "block";

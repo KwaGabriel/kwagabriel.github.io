@@ -79,7 +79,7 @@ Take it easy, lets just chill here :D
 # Pong Controller
 
 <div style="text-align:center">
-    <iframe mozallowfullscreen="true" allow="autoplay; fullscreen; geolocation; microphone; camera; midi" src="https://kwagabriel.github.io/assets/game/ReLanTest/index.html" style="border:0px #000000 none;" name="Lan Test Pong" scrolling="no" msallowfullscreen="true" allowfullscreen="true" webkitallowfullscreen="true" allowtransparency="true" frameborder="0" marginheight="20px" marginwidth="20px" height="610px" width="610px" style="width: 600px; height: 600px; cursor: default;"></iframe>
+    <iframe mozallowfullscreen="true" allow="autoplay; fullscreen; geolocation; microphone; camera; midi" src="https://kwagabriel.github.io/assets/game/ReLanTest/index.html" style="border:0px #161616 none;" name="Lan Test Pong" scrolling="no" msallowfullscreen="true" allowfullscreen="true" webkitallowfullscreen="true" allowtransparency="true" frameborder="0" marginheight="0px" marginwidth="0px" height="1000px" width="100%" style="width: 100%; height: 1000px; cursor: default;"></iframe>
 </div>
 
 
@@ -87,6 +87,10 @@ Take it easy, lets just chill here :D
 
 ### [Full Page Version](https://kwagabriel.github.io/assets/game/ReLanTest/index.html)
 
-Unrelated but here's my favourite song.   
 
-<iframe width="610" height="360" src="https://www.youtube.com/embed/KWCX4YfxlP0" title="Ibara" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+     Unrelated but here's my favourite song.   
+
+<div style="text-align:center">
+    <iframe width="610" height="360" src="https://www.youtube.com/embed/KWCX4YfxlP0" title="Ibara" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
