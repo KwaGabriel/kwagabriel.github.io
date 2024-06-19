@@ -78,7 +78,9 @@ Take it easy, lets just chill here :D
 </script>
 # Pong Controller
 
-<iframe mozallowfullscreen="true" allow="autoplay; fullscreen; geolocation; microphone; camera; midi" src="https://kwagabriel.github.io/assets/game/ReLanTest/index.html" style="border:0px #000000 none;" name="Lan Test Pong" scrolling="no" msallowfullscreen="true" allowfullscreen="true" webkitallowfullscreen="true" allowtransparency="true" frameborder="0" marginheight="20px" marginwidth="20px" height="610px" width="610px"></iframe>
+<div style="text-align:center">
+    <iframe mozallowfullscreen="true" allow="autoplay; fullscreen; geolocation; microphone; camera; midi" src="https://kwagabriel.github.io/assets/game/ReLanTest/index.html" style="border:0px #000000 none;" name="Lan Test Pong" scrolling="no" msallowfullscreen="true" allowfullscreen="true" webkitallowfullscreen="true" allowtransparency="true" frameborder="0" marginheight="20px" marginwidth="20px" height="610px" width="610px" style="width: 600px; height: 600px; cursor: default;"></iframe>
+</div>
 
 
 <div class = 'h3a-rightalign'></div>
