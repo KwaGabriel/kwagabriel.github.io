@@ -76,20 +76,62 @@ Take it easy, lets just chill here :D
         }
         }
 </script>
-# Pong Controller
+# XR Multiplayer 3D Drawing app
 
-<div style="text-align:center">
+<!-- <div style="text-align:center">
     <iframe mozallowfullscreen="true" allow="autoplay; fullscreen; geolocation; microphone; camera; midi" src="https://kwagabriel.github.io/assets/game/ReLanTest/index.html" style="border:0px #161616 none;" name="Lan Test Pong" scrolling="no" msallowfullscreen="true" allowfullscreen="true" webkitallowfullscreen="true" allowtransparency="true" frameborder="0" marginheight="0px" marginwidth="0px" height="750px" width="100%" style="width: 100%; height: 750px; cursor: default;"></iframe>
-</div>
+</div> -->
+
+I made a 3D drawing app with cross-play (kinda) that can handle up to 4 players (+1 Host Device).   
+Use your client devices to draw in 3D space and see the artwork on the host device.   
+
+### Tech used:   
+- Unity Transport 
+- Google ARKit
+- ZXing   
+   
+### Requirements:   
+- Client devices need a camera, magnetometer, gyro and accelerometer.
+- Devices must be connected on the same network, its a LAN "game".
+- Lighting must be adequate for good tracking   
 
 
 <div class = 'h3a-rightalign'></div>
 
-### [Full Page Version](https://kwagabriel.github.io/assets/game/ReLanTest/index.html)
+### [Download APK here](https://kwagabriel.github.io/assets/game/NetworkPlayground/Android_XRDrawing_ver43.apk)
+
+<div class = 'h3a-rightalign'></div>
+
+### [Download PC Host here](https://kwagabriel.github.io/assets/game/NetworkPlayground/PC_XRDrawing_ver43.rar)
+
+## How to Play
+1. Install and launch the app/program.
+2. Select [Host] to start a room instance on any device (Ideally one that isn't moving)   
+3. Select [Client] on another device to connect to the host by either:   
+   - Typing in the Host's IP (Displayed on screen)
+   - Scan the QR Code by pressing the QR icon   
+
+4. You should now see a little head pop up in the room.   
+5. Stand the centre of an unobstructed area and face the host device   
+6. Bring your device close to your body's torso and hit [Centre]   
+7. Without moving, bring your device in front of you at about an arm's length away from your body and hit [Far]   
+8. Hit [Calculate] to calculate the player position   
+9. Hit [Offset] to reset your position to the middle of the room
+
+## Invite more players
+- Select the [JOIN QR] button on the Host Device and follow the instructions above.
+
+## Drawing
+- Press and hold [Draw] to draw a line, try moving your device and see it draw in real time.   
+- Press and hold [Erase] to erase a line by colliding your player head with the line you want to erase   
+- Press [Clear] on the host device to clear all lines.   
+   
+      
+         
 
 
 
-     Unrelated but here's my favourite song.   
+## Unrelated but here's my favourite song.   
 
 <div style="text-align:center">
     <iframe width="610" height="360" src="https://www.youtube.com/embed/KWCX4YfxlP0" title="Ibara" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

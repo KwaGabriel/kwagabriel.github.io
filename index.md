@@ -43,7 +43,7 @@
 
 - ### [Socials and other links](#section-socialsandotherlinks)
 
-- ### [Lan Controller](LanTestController.md)
+- ### [XR Drawing App Demo](LanTestController.md)
 
 </div>
 </div>
