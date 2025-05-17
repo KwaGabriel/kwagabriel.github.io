@@ -18,7 +18,7 @@
     --link-hover-color: #a086d3;
     --margin-leftright-size-percent: 20%;
     --h1-leftindent: 0%;
-    --h2-leftindent: calc(var(--h1-leftindent) + 1%);
+    --h2-leftindent: calc(var(--h1-leftindent) + 3%);
     --h3-leftindent: calc(var(--h2-leftindent) + 1%);
     --p-leftindent: calc(var(--h3-leftindent) + 1%);
 }

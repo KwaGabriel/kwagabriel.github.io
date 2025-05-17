@@ -100,15 +100,19 @@
   <video class="videobanner-player" src="assets/media/videos/banner.mp4" type="video/mp4" autoplay loop muted></video>
 </div>
 
-# Gabe’s Portfolio
+# Gabe’s Portfolio 🍞
 <img class = "badge" src="assets/media/images/badge.png"/>
 
 ## I am Gabriel,
 
-a game dev from UOWM KDU. Currently a Junior Programmer at Kaigan :D
+a programmer currently at Kaigan Games and an alum of UOWM KDU
 
-I have been acquainted with Unity throughout my course completing solo and team projects alike. For my final year project, I was part of Studio Reroll that made Esc:RNG as a general game programmer.
-I did UE related projects during my internship at Nimbus Games.
+I mainly do gameplay programming and editor tools in Kaigan Games, along with maintenance and deployment of the mobile projects for Google and iOS.
+During my studies I completed various solo and team projects. For my final year project, I was part of Studio Reroll that made Esc:RNG as a general game programmer.
+I did projects in Unreal during my internship at Nimbus Games.
+
+Check out my latest hobby project in the draggable container!
+
 Please drop me an email if there are any questions or for further discussion, I look forward to hearing from you!
 
 <div class = 'h3a-rightalign'></div>
@@ -120,22 +124,24 @@ Please drop me an email if there are any questions or for further discussion, I 
 ### [View socials and other links](#section-socialsandotherlinks)
 
 
-# <a name="section-education"></a> Education
-
-## University of Wollongong Malaysia KDU
-
-Bachelor of Games Development (Hons) - Game Tech | CGPA 3.8
 
 
 # <a name="section-experience"></a> Experience
+
+## [Kaigan Games](https://kaigangames.com/)
+
+Programmer | Sept 2023 - Present
 
 ## [Nimbus Games](https://nimbusgames.dev/)
 
 Intern Game Programmer | Nov 2022 - May 2023
 
-## [Kaigan Games](https://kaigangames.com/)
 
-Junior Game Programmer | Sept 2023 - Present
+# <a name="section-education"></a> Education
+
+## University of Wollongong Malaysia KDU
+
+Bachelor of Games Development (Hons) - Game Tech | CGPA 3.8
 
 
 # <a name="section-programminglanguage"></a> Programming language
