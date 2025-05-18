@@ -158,7 +158,7 @@ Bachelor of Games Development (Hons) - Game Tech | CGPA 3.8
 
 # <a name="section-gameprojects"></a> Game Projects
 
-<img class = "project-thumbnail" src="assets/media/images/ESC_4x3.png"/>
+<!-- <img class = "project-thumbnail" src="assets/media/images/ESC_4x3.png"/> -->
 
 <div class = "project-paragraph" markdown = "1">
 
@@ -176,7 +176,7 @@ PC, Group Project, Unity, FYP, 2022
 
 </div>
 
-<img class = "project-thumbnail" src="assets/media/images/FAC_4x3.png"/>
+<!-- <img class = "project-thumbnail" src="assets/media/images/FAC_4x3.png"/> -->
 
 <div class = "project-paragraph" markdown = "1">
 
@@ -196,7 +196,7 @@ Android, Group Project, Unity, 2022
 
 <div class = "project-paragraph" markdown = "1">
 
-<img class = "project-thumbnail" src="assets/media/images/COL_4x3.png"/>
+<!-- <img class = "project-thumbnail" src="assets/media/images/COL_4x3.png"/> -->
 
 - ## Coal Call
 
@@ -276,7 +276,7 @@ PC, Solo Project, Unity, 2020
 
 </div>
 
-<img class = "project-thumbnail" src="assets/media/images/NCG_4x3.png"/>
+<!-- <img class = "project-thumbnail" src="assets/media/images/NCG_4x3.png"/> -->
 
 <div class = "project-paragraph" markdown = "1">
 
@@ -294,7 +294,7 @@ Flash, Solo Project, Stencyl, 2020
 
 </div>
 
-<img class = "project-thumbnail" src="assets/media/images/CYP_4x3.png"/>
+<!-- <img class = "project-thumbnail" src="assets/media/images/CYP_4x3.png"/> -->
 
 <div class = "project-paragraph" markdown = "1">
 
