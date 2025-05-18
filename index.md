@@ -130,13 +130,13 @@ Please drop me an email if there are any questions or for further discussion, I 
 # <a name="section-experience"></a> Experience
 
 ## [Kaigan Games](https://kaigangames.com/)
-
 Programmer | Sept 2023 - Present
 
+- [Deadly Rehearsal](https://store.steampowered.com/app/3193310/Deadly_Rehearsal/)
+
 ## [Nimbus Games](https://nimbusgames.dev/)
-
 Intern Game Programmer | Nov 2022 - May 2023
-
+- [Malice: Chiyo](https://store.steampowered.com/app/2220660/Chiyo/)
 
 # <a name="section-education"></a> Education
 
