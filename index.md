@@ -158,6 +158,41 @@ Bachelor of Games Development (Hons) - Game Tech | CGPA 3.8
 # <a name="section-gameprojects"></a> Game Projects
 
 <!-- <img class = "project-thumbnail" src="assets/media/images/ESC_4x3.png"/> -->
+<div class = "project-paragraph" markdown = "1">
+
+- ## Deadly Rehearsal
+
+is a 3D first-person narrative puzzle horror game where you play as Dodger, a disgraced stage manager hired by a prestigious director to perform a cursed play. The rehearsal is plagued with gruesome accidents and nightmarish visions. To save the cast and yourself, you must master the art of stagecraft and confront evils behind the curse.
+
+The only way to break the curse is to finish it with everyone intact. 
+
+<div class = 'h3a-rightalign'></div>
+
+### [Devlog is Archived]()
+
+### Category
+
+Kaigan Games, PC, Unity, 2023, 2024, 2025
+
+</div>
+
+<div class = "project-paragraph" markdown = "1">
+
+- ## Malice: Chiyo
+
+is a first person, hardcore escape room styled, single player, puzzle game set in a Edo era Japan horror background where you play as Idate Chiyo, a newly recruited paranormal investigator of the Tokugawa Shogunate's Magical Arcane Division, tasked with her first assignment to investigate some strange occurrences reported to have originated from an abandoned mansion on the forested interior of the small coastal city of Gōtsu in Shimane Prefecture. 
+
+Within the mansion, Chiyo encounters strange and malevolent spirits, devious contraptions and puzzles and a dark family history that will threaten her survival.
+
+<div class = 'h3a-rightalign'></div>
+
+### [Devlog is Archived]()
+
+### Category
+
+Nimbus Games, PC, Unreal, 2022, 2023
+
+</div>
 
 <div class = "project-paragraph" markdown = "1">
 
