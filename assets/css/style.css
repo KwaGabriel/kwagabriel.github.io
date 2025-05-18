@@ -160,7 +160,7 @@ body {
     border: 1px solid white;
 }
 #dragged {
-    transform: translate(700px, 600px);
+    transform: translate(270%, 250%);
     width: 17%;
     position: fixed;
     z-index: 9;
