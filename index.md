@@ -140,7 +140,6 @@ Intern Game Programmer | Nov 2022 - May 2023
 # <a name="section-education"></a> Education
 
 ## University of Wollongong Malaysia KDU
-
 Bachelor of Games Development (Hons) - Game Tech | CGPA 3.8
 
 
