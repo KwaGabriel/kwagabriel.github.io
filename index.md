@@ -108,7 +108,7 @@
 a programmer currently at Kaigan Games and an alum of UOWM KDU
 
 I mainly do gameplay programming and editor tools in Kaigan Games, along with maintenance and deployment of the mobile projects for Google and iOS.
-During my studies I completed various solo and team projects. For my final year project, I was part of Studio Reroll that made Esc:RNG as a general game programmer.
+During my studies I also completed various solo and team projects. For my final year project, I was part of Studio Reroll that made Esc:RNG as a general game programmer.
 I did projects in Unreal during my internship at Nimbus Games.
 
 Check out my latest hobby project in the draggable container!
