@@ -104,6 +104,7 @@
 <img class = "badge" src="assets/media/images/badge.png"/>
 
 ## I am Gabriel,
+<br/>
 
 a programmer currently at Kaigan Games and an alum of UOWM KDU
 
