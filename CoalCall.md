@@ -126,6 +126,8 @@ I also helped to design the class for the cards used as well as enemy values alo
 
 
 I also contributed were player data saving, it was intimidating as it was a first major project for me to save the necessary player data and load from it. Minor contributions also included GUIs, events system, and shops.
+
+
 <img class = "project-media-img" src="assets/media/images/COL_editor_eventmanager.png"/>
 <p class = "project-media-imgtext">hover to enlarge</p>
 
