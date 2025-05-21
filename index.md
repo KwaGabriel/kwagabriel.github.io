@@ -33,9 +33,9 @@
 
 - ### [Intro](#gabes-portfolio)
 
-- ### [Education](#section-education)
-
 - ### [Experience](#section-experience)
+
+- ### [Education](#section-education)
 
 - ### [Programming language](#section-programminglanguage)
 
