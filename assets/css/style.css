@@ -11,6 +11,13 @@
     src: url("/assets/fonts/cinecaption226.ttf") format("truetype");
 }
 
+a[href="https://kwagabriel.github.io/"]
+{ 
+    position: absolute;
+    display: none;
+    visibility: hidden;
+ }
+
 :root {
     --wine-red: #c90064;
     --banner-fill-color: #1c1c1c;
@@ -346,12 +353,11 @@ p.project-media-imgtext {
 
 /*video banner*/
 .videobanner-container {
-    overflow: hidden;
     transform-origin: right top;
     position: absolute;
     box-shadow: 0px 3px 10px black;
     width: 75vw;
-    height: 10vh;
+    height: 110px;
 }
 
 .videobanner-player {
@@ -362,7 +368,7 @@ p.project-media-imgtext {
 
 @media only screen and (min-width: 600px) {
     .videobanner-player {
-        object-position: 50% 88%;
+        transform: translateY(-82%);
     }
 
 }
