@@ -23,7 +23,8 @@
 
 <!--- Directory --->
 <div id="dragged" class="dragged-gamedoc-version" markdown = "1">
-  <div id="draggable">Drag me</div>
+  <div id="draggable" class="draghead-pc">Drag me</div>
+  <div id="draggable" class="draghead-mobile">Tap n' Drag</div>
 
 ## [Back to home page](index.md)
 

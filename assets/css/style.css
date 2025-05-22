@@ -214,6 +214,78 @@ a[href="https://kwagabriel.github.io/"] {
     border-radius: 15px 50px 15px 15px;
 }
 
+#draggable.draghead-pc {
+    display: block;
+}
+
+#draggable.draghead-mobile {
+    display: none;
+}
+
+@media only screen and (max-width: 600px) {
+    #draggable {
+        font-size: 0.9em;
+    }
+
+    #dragged{
+        transform: translate(-50%, 215%);
+        width: 36%;
+        font-size: 0.7em;
+    }
+
+    #draggable.draghead-pc {
+        display: none;
+    }
+
+    #draggable.draghead-mobile {
+        display: block;
+    }
+
+    #dragged.dragged-gamedoc-version {
+        transform: scale(100%, 100%) translate(-50%, 235%);
+        font-size: 0.9em;
+        transition: color .25s ease, background-color .25s ease, box-shadow .25s ease;
+    }
+
+    #dragged.dragged-gamedoc-version:hover {
+        color: #00000000;
+        background-color: #00000000;
+        box-shadow: none;
+        transition: color .25s ease, background-color .25s ease, box-shadow .25s ease;
+    }
+
+    #dragged.dragged-gamedoc-version:hover {
+        color: #00000000;
+        background-color: #00000000;
+        box-shadow: none;
+        transition: color .25s ease, background-color .25s ease, box-shadow .25s ease;
+    }
+
+    #dragged.dragged-gamedoc-version:hover a {
+        color: #00000000;
+        transition: color .25s ease;
+    }
+
+    #dragged.dragged-gamedoc-version:hover iframe {
+        opacity: 0;
+        transition: opacity .25s ease;
+    }
+
+
+    #dragged.dragged-gamedoc-version:hover #draggable {
+        color: white;
+        background-color: var(--content-fill-color);
+        transition: color .25s ease, background-color .25s ease;
+    }
+
+    #dragged.dragged-gamedoc-version:hover #draggable:hover {
+        color: var(--content-fill-color);
+        background-color: white;
+        transition: color .25s ease, background-color .25s ease;
+    }
+}
+
+
 .badge {
     width: 0%;
 }
@@ -253,8 +325,20 @@ h1 {
     border-bottom: 1px solid lightgray;
 }
 
+/*Hide weird header line*/
 h1:has(a[href="https://kwagabriel.github.io/"]) {
     border-bottom: 0px;
+}
+
+@media only screen and (max-width: 600px) {
+
+    h1 {
+        font-size: 2.4vh;
+    }
+
+    h2 {
+        font-size: 2vh;
+    }
 }
 
 h2 {
@@ -293,6 +377,15 @@ p {
     border-radius: 15px 50px;
 }
 
+@media only screen and (max-width: 600px) {
+
+    .project-paragraph {
+        margin-bottom: 1vh;
+        margin-top: 1vh;
+    }
+
+}
+
 .project-paragraph ul {
     margin-left: -4.8%;
 }
@@ -328,6 +421,14 @@ img.project-media-img:hover {
     transform: scale(250%);
     box-shadow: 3px 3px 10px black;
     transition: transform .25s ease, box-shadow .25s ease, z-index 0s ease;
+
+}
+
+@media only screen and (max-width: 600px) {
+
+    img.project-media-img:hover {
+        transform: scale(450%);
+    }
 
 }
 
