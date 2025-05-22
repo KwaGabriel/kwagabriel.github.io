@@ -227,12 +227,12 @@ a[href="https://kwagabriel.github.io/"] {
     }
 
     /*Table of contents*/
-    li h2 {
+    #dragged h2 {
         text-indent: 0px;
     }
 
     /*list elements*/
-    li h3 {
+    #dragged h3 {
         padding-left: var(--h3-leftindent);
         margin-top: 2%;
         margin-bottom: 5%;
