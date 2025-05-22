@@ -214,35 +214,35 @@ a[href="https://kwagabriel.github.io/"] {
     border-radius: 15px 50px 15px 15px;
 }
 
-#draggable.draghead-pc {
-    display: block;
-}
-
-#draggable.draghead-mobile {
-    display: none;
-}
-
 @media only screen and (max-width: 600px) {
     #draggable {
         font-size: 0.9em;
     }
 
-    #dragged{
-        transform: translate(-50%, 215%);
+
+    #dragged {
+        transform: translate(-30%, 200%);
         width: 36%;
         font-size: 0.7em;
     }
 
-    #draggable.draghead-pc {
-        display: none;
+    /*Table of contents*/
+    li h2 {
+        text-indent: 0px;
     }
 
-    #draggable.draghead-mobile {
-        display: block;
+    /*list elements*/
+    li h3 {
+        padding-left: var(--h3-leftindent);
+        margin-top: 2%;
+        margin-bottom: 5%;
+        font-weight: normal;
+        text-indent: 0 hanging;
+        line-height: 7px;
     }
 
     #dragged.dragged-gamedoc-version {
-        transform: scale(100%, 100%) translate(-50%, 235%);
+        transform: scale(100%, 100%) translate(-50%, 220%);
         font-size: 0.9em;
         transition: color .25s ease, background-color .25s ease, box-shadow .25s ease;
     }
