@@ -194,7 +194,7 @@ a[href="https://kwagabriel.github.io/"] {
     transform: translate(270%, 100%);
     width: 17%;
     position: fixed;
-    z-index: 9;
+    z-index: 10;
     text-indent: 5%;
     text-align: left;
     background-color: var(--content-fill-color);
@@ -417,7 +417,7 @@ img.project-media-img {
 }
 
 img.project-media-img:hover {
-    z-index: 10;
+    z-index: 11;
     transform: scale(250%);
     box-shadow: 3px 3px 10px black;
     transition: transform .25s ease, box-shadow .25s ease, z-index 0s ease;
