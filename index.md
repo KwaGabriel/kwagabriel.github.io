@@ -129,7 +129,7 @@ The only way to break the curse is to finish it with everyone intact.
 
 <div class = 'h3a-rightalign'></div>
 
-### [Devlog is Archived]()
+### [Devlog in progress...]() <!--(DeadlyRehearsal.md)-->
 
 ### Category
 
@@ -147,7 +147,7 @@ Within the mansion, Chiyo encounters strange and malevolent spirits, devious con
 
 <div class = 'h3a-rightalign'></div>
 
-### [Devlog is Archived]()
+### [Check out the game!](https://store.steampowered.com/app/2220660/Chiyo/)
 
 ### Category
 
