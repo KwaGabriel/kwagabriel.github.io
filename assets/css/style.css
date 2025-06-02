@@ -176,6 +176,11 @@ a[href="https://kwagabriel.github.io/"] {
     visibility: hidden;
 }
 
+/*Hide weird header line*/
+h1:has(a[href="https://kwagabriel.github.io/"]) {
+    border-bottom: 0px;
+}
+
 /*Table of contents*/
 #draggable {
     margin-left: 5%;
@@ -184,15 +189,18 @@ a[href="https://kwagabriel.github.io/"] {
     margin-bottom: 5%;
     padding: 10px;
     text-align: center;
-    cursor: move;
+    cursor: grab;
     z-index: 10;
     font-size: 1.1618em;
     border: 1px solid white;
     border-radius: 15px 50px 15px 15px;
+
+    transition: color .25s ease;
 }
 
 #dragged {
     transform: translate(270%, 100%);
+    min-width: min-content;
     width: 17%;
     height: auto;
     position: fixed;
@@ -209,6 +217,7 @@ a[href="https://kwagabriel.github.io/"] {
 
 #dragged.dragged-gamedoc-version {
     text-align: center;
+    height: auto;
     width: 29%;
     transform: scale(70%, 70%) translate(-122%, 10%);
     padding-bottom: 20px;
@@ -216,11 +225,29 @@ a[href="https://kwagabriel.github.io/"] {
     border-radius: 15px 50px 15px 15px;
 }
 
+
+#draggable:hover {
+    color: var(--content-fill-color);
+    background-color: white;
+    transition: color .25s ease, background-color .25s ease;
+}
+
+#draggable:active {
+    cursor: grabbing;
+}
+
+#steam-iframe {
+    height: 200px;
+}
+
+#itch-iframe {
+    height: fit-content;
+}
+
 @media only screen and (max-width: 600px) {
     #draggable {
         font-size: 0.9em;
     }
-
 
     #dragged {
         transform: translate(-30%, 200%);
@@ -244,47 +271,32 @@ a[href="https://kwagabriel.github.io/"] {
     }
 
     #dragged.dragged-gamedoc-version {
+        width: 40%;
+        height: fit-content;
         transform: scale(100%, 100%) translate(-47%, 218%);
         font-size: 0.9em;
-        transition: color .25s ease, background-color .25s ease, box-shadow .25s ease;
-    }
-
-    #dragged.dragged-gamedoc-version:hover {
-        color: #00000000;
-        background-color: #00000000;
-        box-shadow: none;
-        transition: color .25s ease, background-color .25s ease, box-shadow .25s ease;
-    }
-
-    #dragged.dragged-gamedoc-version:hover {
-        color: #00000000;
-        background-color: #00000000;
-        box-shadow: none;
-        transition: color .25s ease, background-color .25s ease, box-shadow .25s ease;
-    }
-
-    #dragged.dragged-gamedoc-version:hover a {
-        color: #00000000;
         transition: color .25s ease;
     }
 
-    #dragged.dragged-gamedoc-version:hover iframe {
+    /* #dragged.dragged-gamedoc-version:hover {
+                opacity: 0;
+        transition: opacity .25s ease;
+    } */
+
+    /* #dragged.dragged-gamedoc-version:hover {
+                opacity: 0;
+        transition: opacity .25s ease;
+    } */
+
+    /* #dragged.dragged-gamedoc-version:hover a {
+                opacity: 0;
+        transition: opacity .25s ease;
+    } */
+
+    /* #dragged.dragged-gamedoc-version:hover iframe {
         opacity: 0;
         transition: opacity .25s ease;
-    }
-
-
-    #dragged.dragged-gamedoc-version:hover #draggable {
-        color: white;
-        background-color: var(--content-fill-color);
-        transition: color .25s ease, background-color .25s ease;
-    }
-
-    #dragged.dragged-gamedoc-version:hover #draggable:hover {
-        color: var(--content-fill-color);
-        background-color: white;
-        transition: color .25s ease, background-color .25s ease;
-    }
+    } */
 }
 
 
@@ -327,10 +339,7 @@ h1 {
     border-bottom: 1px solid lightgray;
 }
 
-/*Hide weird header line*/
-h1:has(a[href="https://kwagabriel.github.io/"]) {
-    border-bottom: 0px;
-}
+
 
 @media only screen and (max-width: 600px) {
 
@@ -468,6 +477,7 @@ p.project-media-imgtext {
     height: 90px;
     overflow: clip;
     transform: translateY(-32px) translateX(15px);
+    border-radius: 15px 50px;
 }
 
 .videobanner-player {

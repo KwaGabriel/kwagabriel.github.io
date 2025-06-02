@@ -60,6 +60,8 @@
 <br/>
 <br/>
 <br/>
+<br/>
+
 
 # GABE'S PORTFOLIO
 <img class = "badge" src="assets/media/images/badge.png"/>

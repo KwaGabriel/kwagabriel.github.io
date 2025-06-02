@@ -29,7 +29,7 @@
 
 or check out the game below!
 
-<iframe src="https://store.steampowered.com/widget/3193310" width="100%" height="50%" frameborder="0"><a href="https://store.steampowered.com/app/3193310/Deadly_Rehearsal/">Deadly Rehearsal by Kaigan Games</a></iframe>
+<iframe id="steam-iframe" src="https://store.steampowered.com/widget/3193310" width="100%" height="50%" frameborder="0"><a href="https://store.steampowered.com/app/3193310/Deadly_Rehearsal/">Deadly Rehearsal by Kaigan Games</a></iframe>
 </div>
 
 <script src = "assets/scripts/drag-menu.js"></script>
