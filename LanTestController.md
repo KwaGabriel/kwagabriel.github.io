@@ -98,11 +98,11 @@ Use your client devices to draw in 3D space and see the artwork on the host devi
 
 <div class = 'h3a-rightalign'></div>
 
-### [Download APK here](https://kwagabriel.github.io/assets/game/NetworkPlayground/Android_XRDrawing_ver43.apk)
+### [Download APK here](https://kwagabriel.github.io/assets/game/NetworkPlayground/Android_XRDrawing_ver44.apk)
 
 <div class = 'h3a-rightalign'></div>
 
-### [Download PC Host here](https://kwagabriel.github.io/assets/game/NetworkPlayground/PC_XRDrawing_ver43.rar)
+### [Download PC Host here](https://kwagabriel.github.io/assets/game/NetworkPlayground/PC_XRDrawing_ver44.rar)
 
 ## How to Play
 1. Install and launch the app/program.
